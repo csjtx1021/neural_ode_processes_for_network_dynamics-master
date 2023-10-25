@@ -1,0 +1,235 @@
+,Country,Population
+0,Papua New Guinea,8947024
+1,Greenland,56770
+2,Iceland,341243
+3,Canada,37742154
+4,Algeria,43851044
+5,Benin,12123200
+6,Burkina Faso,20903273
+7,Ghana,31072940
+8,Cote d'Ivoire,26378274
+9,Nigeria,206139589
+10,Niger,24206644
+11,Tunisia,11818619
+12,Togo,8278724
+13,Belgium,11589623
+14,Germany,83783942
+15,Estonia,1326535
+16,Finland,5540720
+17,United Kingdom,67886011
+18,Guernsey,62792
+19,Jersey,97857
+20,Isle of Man,85033
+21,Falkland Islands,3480
+22,Netherlands,17134872
+23,Ireland,4937786
+24,Denmark,5792202
+25,Faroe Islands,48863
+26,Luxembourg,625978
+27,Norway,5421241
+28,Poland,37846611
+29,Sweden,10099265
+30,South Africa,59308690
+31,Botswana,2351627
+32,Congo (Brazzaville),5518087
+33,Congo (Kinshasa),89561403
+34,Swaziland,1160164
+35,Central African Republic,4829767
+36,Equatorial Guinea,1402985
+37,Saint Helena,6077
+38,Mauritius,1271768
+39,British Indian Ocean Territory,3000
+40,Cameroon,26545863
+41,Zambia,18383955
+42,Comoros,869601
+43,Mayotte,272815
+44,Reunion,895312
+45,Madagascar,27691018
+46,Angola,32866272
+47,Gabon,2225734
+48,Sao Tome and Principe,219159
+49,Mozambique,31255435
+50,Seychelles,98347
+51,Chad,16425864
+52,Zimbabwe,14862924
+53,Malawi,19129952
+54,Lesotho,2142249
+55,Mali,20250833
+56,Gambia,2416668
+57,Spain,46754778
+58,Sierra Leone,7976983
+59,Liberia,5057681
+60,Morocco,36910560
+61,Senegal,16743927
+62,Mauritania,4649658
+63,Guinea,13132795
+64,Cape Verde,555987
+65,Ethiopia,114963588
+66,Burundi,11890784
+67,Somalia,15893222
+68,Egypt,102334404
+69,Kenya,53771296
+70,Libya,6871292
+71,Rwanda,12952218
+72,Sudan,43849260
+73,South Sudan,11193725
+74,Tanzania,59734218
+75,Uganda,45741007
+76,Albania,2877797
+77,Bulgaria,6948445
+78,Cyprus,1207359
+79,Croatia,4105267
+80,France,65273511
+81,Saint Pierre and Miquelon,5794
+82,Greece,10423054
+83,Hungary,9660351
+84,Italy,60461826
+85,Slovenia,2078938
+86,Czech Republic,10708981
+87,Israel,8655535
+88,Malta,441543
+89,Austria,9006398
+90,Portugal,10196709
+91,Bosnia and Herzegovina,3280819
+92,Romania,19237691
+93,Switzerland,8654622
+94,Turkey,84339067
+95,Moldova,4033963
+96,Macedonia,2083374
+97,Gibraltar,33691
+98,Serbia,8737371
+99,Montenegro,628066
+100,Slovakia,5459642
+101,Turks and Caicos Islands,38717
+102,Dominican Republic,10847910
+103,Guatemala,17915568
+104,Honduras,9904607
+105,Jamaica,2961167
+106,Mexico,128932753
+107,Nicaragua,6624554
+108,Panama,4314767
+109,Costa Rica,5094118
+110,El Salvador,6486205
+111,Haiti,11402528
+112,Cuba,11326616
+113,Cayman Islands,65722
+114,Bahamas,393244
+115,Belize,397628
+116,Cook Islands,17564
+117,Fiji,896445
+118,Tonga,105695
+119,Kiribati,119449
+120,Wallis and Futuna,11239
+121,Samoa,198414
+122,American Samoa,55191
+123,French Polynesia,280908
+124,Vanuatu,307145
+125,New Caledonia,285498
+126,New Zealand,4822233
+127,Afghanistan,38928346
+128,Bahrain,1701575
+129,Saudi Arabia,34813871
+130,Iran,83992949
+131,Jordan,10203134
+132,Kuwait,4270571
+133,Lebanon,6825445
+134,United Arab Emirates,9890402
+135,Oman,5106626
+136,Pakistan,220892340
+137,Iraq,40222493
+138,Syria,17500658
+139,Qatar,2881053
+140,Northern Mariana Islands,57559
+141,Guam,168775
+142,Marshall Islands,59190
+143,Midway Islands,40
+144,Micronesia,548914
+145,Palau,18094
+146,Taiwan,23816775
+147,Japan,126476461
+148,South Korea,51269185
+149,Philippines,109581078
+150,Argentina,45195774
+151,Brazil,212559417
+152,Chile,19116201
+153,Antarctica,4000
+154,Ecuador,17643054
+155,Paraguay,7132538
+156,Colombia,50882891
+157,Bolivia,11673021
+158,Suriname,586632
+159,French Guiana,298682
+160,Peru,32971854
+161,Uruguay,3473730
+162,Venezuela,28435940
+163,Guyana,786552
+164,Antigua and Barbuda,97929
+165,Barbados,287375
+166,Dominica,71986
+167,Martinique,375265
+168,Guadeloupe,400124
+169,Grenada,112523
+170,Virgin Islands,104425
+171,Puerto Rico,2860853
+172,Saint Kitts and Nevis,53199
+173,Saint Lucia,183627
+174,Aruba,106766
+175,Netherlands Antilles,164093
+176,Anguilla,15003
+177,Trinidad and Tobago,1399488
+178,British Virgin Islands,30231
+179,Saint Vincent and the Grenadines,110940
+180,Kazakhstan,18776707
+181,Kyrgyzstan,6524195
+182,Azerbaijan,10139177
+183,Russia,145934462
+184,Ukraine,43733762
+185,Belarus,9449323
+186,Turkmenistan,6031200
+187,Tajikistan,9537645
+188,Uzbekistan,33469203
+189,India,1380004385
+190,Sri Lanka,21413249
+191,Cambodia,16718965
+192,Bangladesh,164689383
+193,Hong Kong,7496981
+194,Laos,7275560
+195,Macau,649335
+196,Nepal,29136808
+197,Bhutan,771608
+198,Maldives,540544
+199,Thailand,69799978
+200,Vietnam,97338579
+201,Myanmar,54409800
+202,Indonesia,273523615
+203,Malaysia,32365999
+204,Brunei,437479
+205,East Timor,1318445
+206,Singapore,5850342
+207,Australia,25499884
+208,Christmas Island,1400
+209,Norfolk Island,2170
+210,China,1439323776
+211,North Korea,25778816
+212,Mongolia,3278290
+213,United States,331002651
+214,Latvia,1886198
+215,Lithuania,2722289
+216,Armenia,2963243
+217,Eritrea,3546421
+218,Palestine,5101414
+219,Georgia,3989167
+220,Yemen,29825964
+221,Bermuda,62278
+222,Solomon Islands,686884
+223,Nauru,10824
+224,Tuvalu,11792
+225,Namibia,2540905
+226,Djibouti,988000
+227,Montserrat,4992
+228,Johnston Atoll,10
+229,Guinea-Bissau,1968001
+230,Western Sahara,597339
+231,Niue,1626
+232,Cocos (Keeling) Islands,600
+233,Wake Island,150
