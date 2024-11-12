@@ -1,4 +1,7 @@
 
+# Official code for the paper entitled "Learning Continuous Network Emerging Dynamics from Scarce Observations via Data-Adaptive Stochastic Processes", which has been accepted by Science China Information Sciences.
+
+
 ## Running Environment and Dependency Packages
 
 We have tested the code on the hardware environment with Intel(R) Xeon(R) Silver 4310 CPU@2.10GHz * 48 and NVIDIA GeForce RTX 3090 * 3.
