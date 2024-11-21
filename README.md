@@ -1,4 +1,7 @@
 
+[![HitCount](https://hits.dwyl.com/csjtx1021/neural_ode_processes_for_network_dynamics-master.svg?style=flat-square)](http://hits.dwyl.com/csjtx1021/neural_ode_processes_for_network_dynamics-master)
+
+
 # Official code for the paper entitled "Learning Continuous Network Emerging Dynamics from Scarce Observations via Data-Adaptive Stochastic Processes", which has been accepted by Science China Information Sciences.
 
 
@@ -61,6 +64,7 @@ NOTE:
 
 * Testing results can be found in ./results/
 ***
+
 
 
 
